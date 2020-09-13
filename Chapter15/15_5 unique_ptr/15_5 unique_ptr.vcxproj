@@ -142,6 +142,7 @@
     <ClCompile Include="15_5 unique_ptr.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AutoPtr.h" />
     <ClInclude Include="Resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
