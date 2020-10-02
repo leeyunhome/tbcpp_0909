@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_5 floating point numbers"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_6 불리언 자료형과 조건문 if", "2_6 불리언 자료형과 조건문 if\2_6 불리언 자료형과 조건문 if.vcxproj", "{B40A53F8-CD5D-4E9F-A0CD-F414A57A566C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_8 literal constants", "2_8 literal constants\2_8 literal constants.vcxproj", "{898BC246-56F0-4FD5-9077-1472815A8897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{B40A53F8-CD5D-4E9F-A0CD-F414A57A566C}.Release|x64.Build.0 = Release|x64
 		{B40A53F8-CD5D-4E9F-A0CD-F414A57A566C}.Release|x86.ActiveCfg = Release|Win32
 		{B40A53F8-CD5D-4E9F-A0CD-F414A57A566C}.Release|x86.Build.0 = Release|Win32
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Debug|x64.ActiveCfg = Debug|x64
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Debug|x64.Build.0 = Debug|x64
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Debug|x86.ActiveCfg = Debug|Win32
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Debug|x86.Build.0 = Debug|Win32
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Release|x64.ActiveCfg = Release|x64
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Release|x64.Build.0 = Release|x64
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Release|x86.ActiveCfg = Release|Win32
+		{898BC246-56F0-4FD5-9077-1472815A8897}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
