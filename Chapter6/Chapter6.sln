@@ -7,6 +7,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_6 C언어 스타일의 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_7 포인터의 기본적인 사용법", "6_7 포인터의 기본적인 사용법\6_7 포인터의 기본적인 사용법.vcxproj", "{7E21BFA3-FDC3-4A6A-BD0F-782AC900745E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_8 포인터와 정적 배열", "6_8 포인터와 정적 배열\6_8 포인터와 정적 배열.vcxproj", "{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_9 포인터 연산과 배열 인덱싱", "6_9 포인터 연산과 배열 인덱싱\6_9 포인터 연산과 배열 인덱싱.vcxproj", "{0F442B94-29E8-4D55-BEEC-69B24E3D7999}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_10 C언어 스타일의 문자열 심볼릭 상수", "6_10 C언어 스타일의 문자열 심볼릭 상수\6_10 C언어 스타일의 문자열 심볼릭 상수.vcxproj", "{D88DF743-B3B9-47AD-8C45-225EDD92B997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +37,30 @@ Global
 		{7E21BFA3-FDC3-4A6A-BD0F-782AC900745E}.Release|x64.Build.0 = Release|x64
 		{7E21BFA3-FDC3-4A6A-BD0F-782AC900745E}.Release|x86.ActiveCfg = Release|Win32
 		{7E21BFA3-FDC3-4A6A-BD0F-782AC900745E}.Release|x86.Build.0 = Release|Win32
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Debug|x64.ActiveCfg = Debug|x64
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Debug|x64.Build.0 = Debug|x64
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Debug|x86.Build.0 = Debug|Win32
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Release|x64.ActiveCfg = Release|x64
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Release|x64.Build.0 = Release|x64
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Release|x86.ActiveCfg = Release|Win32
+		{FAFA94C8-1F31-4370-9F41-0BEC3806B3AF}.Release|x86.Build.0 = Release|Win32
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Debug|x64.ActiveCfg = Debug|x64
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Debug|x64.Build.0 = Debug|x64
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Debug|x86.Build.0 = Debug|Win32
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Release|x64.ActiveCfg = Release|x64
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Release|x64.Build.0 = Release|x64
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Release|x86.ActiveCfg = Release|Win32
+		{0F442B94-29E8-4D55-BEEC-69B24E3D7999}.Release|x86.Build.0 = Release|Win32
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Debug|x64.ActiveCfg = Debug|x64
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Debug|x64.Build.0 = Debug|x64
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Debug|x86.ActiveCfg = Debug|Win32
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Debug|x86.Build.0 = Debug|Win32
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Release|x64.ActiveCfg = Release|x64
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Release|x64.Build.0 = Release|x64
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Release|x86.ActiveCfg = Release|Win32
+		{D88DF743-B3B9-47AD-8C45-225EDD92B997}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
