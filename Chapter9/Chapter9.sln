@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.2 입출력 연산자 오버로딩 하기", "9.2 입출력 연산자 오버로딩 하기\9.2 입출력 연산자 오버로딩 하기.vcxproj", "{B66FE329-E66C-420E-BB88-3B3C84C36588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Debug|x64.ActiveCfg = Debug|x64
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Debug|x64.Build.0 = Debug|x64
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Debug|x86.ActiveCfg = Debug|Win32
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Debug|x86.Build.0 = Debug|Win32
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Release|x64.ActiveCfg = Release|x64
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Release|x64.Build.0 = Release|x64
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Release|x86.ActiveCfg = Release|Win32
+		{B66FE329-E66C-420E-BB88-3B3C84C36588}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F52E98-F2C1-4CE9-BB29-6A76DFD24425}
+	EndGlobalSection
+EndGlobal

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_15 실행 시간 측정하기", "8_15 실행 시간 측정하기\8_15 실행 시간 측정하기.vcxproj", "{B708C59E-17CE-41A5-9451-B1F1F05B8ED0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_1 Object oriented programming", "8_1 Object oriented programming\8_1 Object oriented programming.vcxproj", "{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B708C59E-17CE-41A5-9451-B1F1F05B8ED0}.Release|x64.Build.0 = Release|x64
 		{B708C59E-17CE-41A5-9451-B1F1F05B8ED0}.Release|x86.ActiveCfg = Release|Win32
 		{B708C59E-17CE-41A5-9451-B1F1F05B8ED0}.Release|x86.Build.0 = Release|Win32
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Debug|x64.ActiveCfg = Debug|x64
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Debug|x64.Build.0 = Debug|x64
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Debug|x86.ActiveCfg = Debug|Win32
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Debug|x86.Build.0 = Debug|Win32
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Release|x64.ActiveCfg = Release|x64
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Release|x64.Build.0 = Release|x64
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Release|x86.ActiveCfg = Release|Win32
+		{16E3398B-2F1F-41C8-B5FF-DD0B2FEBEA75}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
