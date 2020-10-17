@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_1 Object oriented program
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_12 친구함수와 클래스 friend", "8_12 친구함수와 클래스 friend\8_12 친구함수와 클래스 friend.vcxproj", "{BE42A032-8E86-46D6-8F40-EFE892CD3BA9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_13 익명 객체", "8_13 익명 객체\8_13 익명 객체.vcxproj", "{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BE42A032-8E86-46D6-8F40-EFE892CD3BA9}.Release|x64.Build.0 = Release|x64
 		{BE42A032-8E86-46D6-8F40-EFE892CD3BA9}.Release|x86.ActiveCfg = Release|Win32
 		{BE42A032-8E86-46D6-8F40-EFE892CD3BA9}.Release|x86.Build.0 = Release|Win32
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Debug|x64.ActiveCfg = Debug|x64
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Debug|x64.Build.0 = Debug|x64
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Debug|x86.Build.0 = Debug|Win32
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Release|x64.ActiveCfg = Release|x64
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Release|x64.Build.0 = Release|x64
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Release|x86.ActiveCfg = Release|Win32
+		{8A26B3D4-C821-4F73-89BB-24E48F3DAC2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
