@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_2 STL 반복자 소개",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.1 표준 템플릿 라이브러리, 컨테이너 소개", "16.1 표준 템플릿 라이브러리, 컨테이너 소개\16.1 표준 템플릿 라이브러리, 컨테이너 소개.vcxproj", "{9400C853-3C2D-40EB-995B-B25733B640A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.3 STL 알고리즘 소개", "16.3 STL 알고리즘 소개\16.3 STL 알고리즘 소개.vcxproj", "{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9400C853-3C2D-40EB-995B-B25733B640A3}.Release|x64.Build.0 = Release|x64
 		{9400C853-3C2D-40EB-995B-B25733B640A3}.Release|x86.ActiveCfg = Release|Win32
 		{9400C853-3C2D-40EB-995B-B25733B640A3}.Release|x86.Build.0 = Release|Win32
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Debug|x64.ActiveCfg = Debug|x64
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Debug|x64.Build.0 = Debug|x64
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Debug|x86.Build.0 = Debug|Win32
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Release|x64.ActiveCfg = Release|x64
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Release|x64.Build.0 = Release|x64
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Release|x86.ActiveCfg = Release|Win32
+		{FAC7B540-3EAD-455C-A142-1911DDBCDD9D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
