@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+//XX std::auto_ptr<int>; // c++ 98, c++ 11, c++ 17
 
 template<class T>
 class AutoPtr
@@ -76,4 +77,5 @@ public:
 
 	T& operator*() const { return *m_ptr; }
 	T* operator->() const { return m_ptr; }
+	bool isNull() const { return m_ptr == nullptr; }
 };
