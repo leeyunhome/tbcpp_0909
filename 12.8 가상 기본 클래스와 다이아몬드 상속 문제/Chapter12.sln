@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.8 가상 기본 클래�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.9 객체 잘림과 reference wrapper", "12.9 객체 잘림과 reference wrapper\12.9 객체 잘림과 reference wrapper.vcxproj", "{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.10 동적 형변환", "12.10 동적 형변환\12.10 동적 형변환.vcxproj", "{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x64.Build.0 = Release|x64
 		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x86.ActiveCfg = Release|Win32
 		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x86.Build.0 = Release|Win32
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Debug|x64.ActiveCfg = Debug|x64
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Debug|x64.Build.0 = Debug|x64
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Debug|x86.Build.0 = Debug|Win32
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Release|x64.ActiveCfg = Release|x64
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Release|x64.Build.0 = Release|x64
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Release|x86.ActiveCfg = Release|Win32
+		{E8497752-D457-4D1A-B2C9-2EDC1A3A7FF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
