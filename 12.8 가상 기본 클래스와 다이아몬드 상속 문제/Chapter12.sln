@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.8 가상 기본 클래스와 다이아몬드 상속 문제", "12.8 가상 기본 클래스와 다이아몬드 상속 문제\12.8 가상 기본 클래스와 다이아몬드 상속 문제.vcxproj", "{52BD92B4-75A0-44CE-A7A9-D93C382F7BCF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.9 객체 잘림과 reference wrapper", "12.9 객체 잘림과 reference wrapper\12.9 객체 잘림과 reference wrapper.vcxproj", "{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{52BD92B4-75A0-44CE-A7A9-D93C382F7BCF}.Release|x64.Build.0 = Release|x64
 		{52BD92B4-75A0-44CE-A7A9-D93C382F7BCF}.Release|x86.ActiveCfg = Release|Win32
 		{52BD92B4-75A0-44CE-A7A9-D93C382F7BCF}.Release|x86.Build.0 = Release|Win32
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Debug|x64.ActiveCfg = Debug|x64
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Debug|x64.Build.0 = Debug|x64
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Debug|x86.Build.0 = Debug|Win32
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x64.ActiveCfg = Release|x64
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x64.Build.0 = Release|x64
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x86.ActiveCfg = Release|Win32
+		{4FE7251D-9AD5-4578-B803-EEB9BBCC24F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
