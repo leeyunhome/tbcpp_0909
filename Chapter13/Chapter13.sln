@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.4 함수 템플릿 특�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.5", "13.5\13.5.vcxproj", "{3D5536A4-77A3-4571-B672-E889BEE3DBA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.6 템플릿을 부분적으로 특수화하기", "13.6 템플릿을 부분적으로 특수화하기\13.6 템플릿을 부분적으로 특수화하기.vcxproj", "{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3D5536A4-77A3-4571-B672-E889BEE3DBA2}.Release|x64.Build.0 = Release|x64
 		{3D5536A4-77A3-4571-B672-E889BEE3DBA2}.Release|x86.ActiveCfg = Release|Win32
 		{3D5536A4-77A3-4571-B672-E889BEE3DBA2}.Release|x86.Build.0 = Release|Win32
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Debug|x64.ActiveCfg = Debug|x64
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Debug|x64.Build.0 = Debug|x64
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Debug|x86.Build.0 = Debug|Win32
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Release|x64.ActiveCfg = Release|x64
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Release|x64.Build.0 = Release|x64
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Release|x86.ActiveCfg = Release|Win32
+		{EAC58212-47E4-44AE-A2EB-DF2883FFF23A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
