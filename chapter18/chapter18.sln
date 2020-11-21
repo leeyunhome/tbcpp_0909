@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.4 흐름 상태와 입�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.5 정규 표현식 소개", "18.5 정규 표현식 소개\18.5 정규 표현식 소개.vcxproj", "{171C7D37-B90D-45B6-88D6-21E740E1B7B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.6 기본적인 파일 입출력", "18.6 기본적인 파일 입출력\18.6 기본적인 파일 입출력.vcxproj", "{7F29072D-3E1B-4EA0-B563-25365423D432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{171C7D37-B90D-45B6-88D6-21E740E1B7B9}.Release|x64.Build.0 = Release|x64
 		{171C7D37-B90D-45B6-88D6-21E740E1B7B9}.Release|x86.ActiveCfg = Release|Win32
 		{171C7D37-B90D-45B6-88D6-21E740E1B7B9}.Release|x86.Build.0 = Release|Win32
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Debug|x64.ActiveCfg = Debug|x64
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Debug|x64.Build.0 = Debug|x64
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Debug|x86.Build.0 = Debug|Win32
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Release|x64.ActiveCfg = Release|x64
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Release|x64.Build.0 = Release|x64
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Release|x86.ActiveCfg = Release|Win32
+		{7F29072D-3E1B-4EA0-B563-25365423D432}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
