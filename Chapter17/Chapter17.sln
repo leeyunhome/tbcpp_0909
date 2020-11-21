@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.1_std string_std wstring
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.3 std string의 길이와 용량", "17.3 std string의 길이와 용량\17.3 std string의 길이와 용량.vcxproj", "{A527B984-38D5-4072-A7FC-D33DB9AA2D0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.4 문자 접근하기와 배열로의 변환", "17.4 문자 접근하기와 배열로의 변환\17.4 문자 접근하기와 배열로의 변환.vcxproj", "{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17.5 string 대입, 교환, 덧붙이기, 삽입", "17.5 string 대입, 교환, 덧붙이기, 삽입\17.5 string 대입, 교환, 덧붙이기, 삽입.vcxproj", "{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{A527B984-38D5-4072-A7FC-D33DB9AA2D0E}.Release|x64.Build.0 = Release|x64
 		{A527B984-38D5-4072-A7FC-D33DB9AA2D0E}.Release|x86.ActiveCfg = Release|Win32
 		{A527B984-38D5-4072-A7FC-D33DB9AA2D0E}.Release|x86.Build.0 = Release|Win32
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Debug|x64.ActiveCfg = Debug|x64
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Debug|x64.Build.0 = Debug|x64
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Debug|x86.ActiveCfg = Debug|Win32
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Debug|x86.Build.0 = Debug|Win32
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Release|x64.ActiveCfg = Release|x64
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Release|x64.Build.0 = Release|x64
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Release|x86.ActiveCfg = Release|Win32
+		{24889AF3-6FF6-4A35-86A6-D1F0F790F28E}.Release|x86.Build.0 = Release|Win32
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Debug|x64.ActiveCfg = Debug|x64
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Debug|x64.Build.0 = Debug|x64
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Debug|x86.Build.0 = Debug|Win32
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Release|x64.ActiveCfg = Release|x64
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Release|x64.Build.0 = Release|x64
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Release|x86.ActiveCfg = Release|Win32
+		{B4B7E3E7-511D-4AE0-82CA-04AAA9679F2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
