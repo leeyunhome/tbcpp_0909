@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.1 istream으로 입력받기", "18.1 istream으로 입력받기\18.1 istream으로 입력받기.vcxproj", "{3A7B121D-4B91-41BD-B6C6-42B7179586DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18.2 ostream으로 출력하기", "18.2 ostream으로 출력하기\18.2 ostream으로 출력하기.vcxproj", "{5B8472D2-9827-4775-B5AC-779EA2814723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3A7B121D-4B91-41BD-B6C6-42B7179586DA}.Release|x64.Build.0 = Release|x64
 		{3A7B121D-4B91-41BD-B6C6-42B7179586DA}.Release|x86.ActiveCfg = Release|Win32
 		{3A7B121D-4B91-41BD-B6C6-42B7179586DA}.Release|x86.Build.0 = Release|Win32
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Debug|x64.ActiveCfg = Debug|x64
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Debug|x64.Build.0 = Debug|x64
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Debug|x86.Build.0 = Debug|Win32
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Release|x64.ActiveCfg = Release|x64
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Release|x64.Build.0 = Release|x64
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Release|x86.ActiveCfg = Release|Win32
+		{5B8472D2-9827-4775-B5AC-779EA2814723}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
