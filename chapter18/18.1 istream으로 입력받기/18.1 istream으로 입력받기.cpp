@@ -3,11 +3,24 @@
 
 #include <iostream>
 #include <iomanip>
+#include <string>
 
 using namespace std;
 
 int main()
 {
+	char buf[1024];
+
+	//cin.ignore(2);
+	//cout << (char)cin.peek() << endl;
+
+	cin >> buf;
+	cout << buf << endl;
+
+	//cin.unget();
+	cin.putback('A');
+	cin >> buf;
+	cout << buf << endl;
 	/*int i;
 	float f;
 
@@ -15,14 +28,18 @@ int main()
 
 	cout << i << " " << f << endl;*/
 
-	char buf[5];
+	/*char buf[100];
 
-	cin.get(buf, 5);
+	cin.get(buf, 100);
 	cout << cin.gcount() << " " << buf << endl;
 
-	cin.get(buf, 5);
-	cout << cin.gcount() << " " << buf << endl;
+	cin.getline(buf, 100);
+	cout << cin.gcount() << " " << buf << endl;*/
 
+	/*string buf;
+
+	getline(cin, buf);
+	cout << cin.gcount() << " " << buf << endl;*/
 
 	//char buf[5];
 
