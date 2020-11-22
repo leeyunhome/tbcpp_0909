@@ -12,20 +12,18 @@ using namespace std;
 
 int main()
 {
-	const int num_pro = std::thread::hardware_concurrency();
-	
-	cout << std::this_thread::get_id() << endl;
+	auto work_func = [](const string& name) -> void
+	{
+		for (int idx = 0; idx < 5; ++idx)
+		{
+			std::this_thread::sleep_for(std::chrono::milliseconds(100));
 
-	vector<std::thread> my_threads;
-	my_threads.resize(num_pro);
+			cout << name << " " << std::this_thread::get_id() << " is working " << idx << endl;
+		}
+	};
 
-	for (auto& e : my_threads)
-		e = std::thread([]() {
-				cout << std::this_thread::get_id() << endl;
-				while (true) {}});
-
-	for (auto& e : my_threads)
-		e.join();
+	work_func("leehyerim");
+	work_func("yuri");
 
 	return 0;
 }
