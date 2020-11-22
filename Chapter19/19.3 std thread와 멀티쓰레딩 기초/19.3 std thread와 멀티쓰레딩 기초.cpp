@@ -15,16 +15,17 @@ int main()
 	const int num_pro = std::thread::hardware_concurrency();
 	
 	cout << std::this_thread::get_id() << endl;
-	std::thread t1 = std::thread([]() {
-		cout << std::this_thread::get_id() << endl;
 
-		while (true)
-		{
+	vector<std::thread> my_threads;
+	my_threads.resize(num_pro);
 
-		}
-		});
+	for (auto& e : my_threads)
+		e = std::thread([]() {
+				cout << std::this_thread::get_id() << endl;
+				while (true) {}});
 
-	t1.join();
+	for (auto& e : my_threads)
+		e.join();
 
 	return 0;
 }
