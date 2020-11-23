@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.3 std thread와 멀티�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.4 레이스 컨디션, std atomic, std scoped_lock", "19.4 레이스 컨디션, std atomic, std scoped_lock\19.4 레이스 컨디션, std atomic, std scoped_lock.vcxproj", "{86B9C579-FE73-4E3A-9E12-E44FBAB6EA6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.5 작업 기반 비동기 프로그래밍", "19.5 작업 기반 비동기 프로그래밍\19.5 작업 기반 비동기 프로그래밍.vcxproj", "{F1F70E97-526A-4C11-9162-4A56EF06B0B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{86B9C579-FE73-4E3A-9E12-E44FBAB6EA6C}.Release|x64.Build.0 = Release|x64
 		{86B9C579-FE73-4E3A-9E12-E44FBAB6EA6C}.Release|x86.ActiveCfg = Release|Win32
 		{86B9C579-FE73-4E3A-9E12-E44FBAB6EA6C}.Release|x86.Build.0 = Release|Win32
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Debug|x64.ActiveCfg = Debug|x64
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Debug|x64.Build.0 = Debug|x64
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Debug|x86.Build.0 = Debug|Win32
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Release|x64.ActiveCfg = Release|x64
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Release|x64.Build.0 = Release|x64
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Release|x86.ActiveCfg = Release|Win32
+		{F1F70E97-526A-4C11-9162-4A56EF06B0B1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
