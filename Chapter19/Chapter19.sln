@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.5 작업 기반 비동�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.6 멀티쓰레딩 예제 (벡터 내적)", "19.6 멀티쓰레딩 예제 (벡터 내적)\19.6 멀티쓰레딩 예제 (벡터 내적).vcxproj", "{06EFB32E-85FE-442A-8656-669B6810FCAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.7 완벽한 전달과 std forward", "19.7 완벽한 전달과 std forward\19.7 완벽한 전달과 std forward.vcxproj", "{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{06EFB32E-85FE-442A-8656-669B6810FCAD}.Release|x64.Build.0 = Release|x64
 		{06EFB32E-85FE-442A-8656-669B6810FCAD}.Release|x86.ActiveCfg = Release|Win32
 		{06EFB32E-85FE-442A-8656-669B6810FCAD}.Release|x86.Build.0 = Release|Win32
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Debug|x64.ActiveCfg = Debug|x64
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Debug|x64.Build.0 = Debug|x64
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Debug|x86.Build.0 = Debug|Win32
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x64.ActiveCfg = Release|x64
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x64.Build.0 = Release|x64
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x86.ActiveCfg = Release|Win32
+		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
