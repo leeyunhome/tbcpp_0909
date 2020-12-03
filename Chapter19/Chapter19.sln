@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.6 멀티쓰레딩 예제
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.7 완벽한 전달과 std forward", "19.7 완벽한 전달과 std forward\19.7 완벽한 전달과 std forward.vcxproj", "{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.8 자료형 추론 auto와 decltype", "19.8 자료형 추론 auto와 decltype\19.8 자료형 추론 auto와 decltype.vcxproj", "{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x64.Build.0 = Release|x64
 		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x86.ActiveCfg = Release|Win32
 		{6EF08EB8-C0C1-4839-9CE3-784C62F326AF}.Release|x86.Build.0 = Release|Win32
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Debug|x64.ActiveCfg = Debug|x64
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Debug|x64.Build.0 = Debug|x64
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Debug|x86.Build.0 = Debug|Win32
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Release|x64.ActiveCfg = Release|x64
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Release|x64.Build.0 = Release|x64
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Release|x86.ActiveCfg = Release|Win32
+		{CE84A3D9-99F8-4E6C-9660-4B66A771BF6D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
